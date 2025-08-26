@@ -1,6 +1,6 @@
 # 🎤 Prep Talk– AI-Powered Interview Preparation Platform  
 
-**PrepAIred** is an AI-driven interview preparation platform that helps candidates practice job interviews with realistic, voice-assisted AI agents. Powered by **Vapi AI** and **Google Gemini**, the app simulates real-world interviews, provides instant AI feedback, and helps users improve communication, confidence, and technical responses.  
+**PrepTalk** is an AI-driven interview preparation platform that helps candidates practice job interviews with realistic, voice-assisted AI agents. Powered by **Vapi AI** and **Google Gemini**, the app simulates real-world interviews, provides instant AI feedback, and helps users improve communication, confidence, and technical responses.  
 
 ---
 
