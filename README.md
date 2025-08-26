@@ -25,7 +25,7 @@
 
 ---
 
-## 🌟 Why PrepAIred?  
+## 🌟 Why PrepTalk?  
 This project combines **AI, voice interaction, and modern web tech** to create the future of **interview preparation**. 🚀  
 
 ---
